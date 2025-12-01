@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 7 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 7 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 7 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\pessoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 7 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 7 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 7 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\views\\shared\\partial\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\views\\shared\\partial\\_carrossel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|c:\\users\\abimael mendes\\downloads\\drive-download-20250226t013050z-001\\modulo 7 - ok\\gerenciamentodepessoas\\gerenciamentodepessoas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D23C2882-2FB2-454C-BA45-577B9A05B1BB}|GerenciamentoDePessoas\\GerenciamentoDePessoas.csproj|solutionrelative:gerenciamentodepessoas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PessoaController.cs",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Controllers\\PessoaController.cs",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Controllers\\PessoaController.cs",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Controllers\\PessoaController.cs",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Controllers\\PessoaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAEwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T01:46:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T01:42:44.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\appsettings.json",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\appsettings.json",
+              "RelativeToolTip": "GerenciamentoDePessoas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T01:41:46.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Pessoa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T23:52:51.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Carrossel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Shared\\Partial\\_Carrossel.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Shared\\Partial\\_Carrossel.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Shared\\Partial\\_Carrossel.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Shared\\Partial\\_Carrossel.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T23:52:20.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "GerenciamentoDePessoas\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-25T01:42:07.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Abimael Mendes\\Downloads\\drive-download-20250226T013050Z-001\\Modulo 7 - Ok\\GerenciamentoDePessoas\\GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GerenciamentoDePessoas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T01:36:59.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
